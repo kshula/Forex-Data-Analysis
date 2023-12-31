@@ -17,9 +17,10 @@ cd Forex-Data-Analysis
 go run forex.go
 ```
 ## Provide the input CSV file (e.g., "data.csv").
+```bash
 Date,BuyingRate,MidRate,SellingRate
 2023-01-01,1.200,1.250,1.300
 2023-01-02,1.210,1.260,1.310
 ...
-
+```
 
