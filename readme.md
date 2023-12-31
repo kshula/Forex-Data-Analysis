@@ -1,5 +1,6 @@
 # Forex Data Analysis
 ![](Screenshot_1.png)
+
 This Go program reads data from a CSV file containing forex rates, computes statistics, and prints the results. The statistics include mean, median, and standard deviation for Buying Rate, Mid Rate, and Selling Rate.
 
 ## Usage
